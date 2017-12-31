@@ -1,0 +1,1 @@
+Just an image that adds `openssh` to https://hub.docker.com/r/devth/helm/
